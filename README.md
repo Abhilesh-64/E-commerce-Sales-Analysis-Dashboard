@@ -1,5 +1,6 @@
 # E-commerce-Sales-Analysis-Dashboard
 E-commerce Sales Analysis Dashboard
+Built a comprehensive E-commerce Sales Analysis Dashboard in Excel, transforming raw data into actionable insights including sales trends, top customers, product performance, and discount impact on profitability. Designed to support data-driven business decisions.
 
 # 📊 E-commerce Sales Analysis Dashboard
 
